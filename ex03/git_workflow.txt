@@ -1,0 +1,19 @@
+Git Workflow
+
+1. Edit:
+   Create or modify project files such as README.md.
+
+2. Add:
+   Stage the modified files using:
+   git add README.md
+
+3. Commit:
+   Save the staged changes with a clear commit message:
+   git commit -m "Add project README"
+
+4. Push:
+   Upload the committed changes to the remote GitHub repository:
+   git push -u origin main
+
+Workflow:
+Edit → Add → Commit → Push

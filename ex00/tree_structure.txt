@@ -1,0 +1,41 @@
+.:
+total 0
+drwxr-xr-x 5 tal-omar _amman 77 Sep 30 13:51 .
+drwxr-xr-x 3 tal-omar _amman 27 Sep 30 13:40 ..
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:41 archives
+drwxr-xr-x 3 tal-omar _amman 17 Sep 30 13:43 projects
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:41 tools
+-rw-r--r-- 1 tal-omar _amman  0 Sep 30 13:51 tree_structure.txt
+
+./archives:
+total 0
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:41 .
+drwxr-xr-x 5 tal-omar _amman 77 Sep 30 13:51 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 tal-omar _amman 17 Sep 30 13:43 .
+drwxr-xr-x 5 tal-omar _amman 77 Sep 30 13:51 ..
+drwxr-xr-x 4 tal-omar _amman 37 Sep 30 13:43 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 tal-omar _amman 37 Sep 30 13:43 .
+drwxr-xr-x 3 tal-omar _amman 17 Sep 30 13:43 ..
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:43 backend
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:43 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:43 .
+drwxr-xr-x 4 tal-omar _amman 37 Sep 30 13:43 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:43 .
+drwxr-xr-x 4 tal-omar _amman 37 Sep 30 13:43 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 tal-omar _amman  6 Sep 30 13:41 .
+drwxr-xr-x 5 tal-omar _amman 77 Sep 30 13:51 ..
